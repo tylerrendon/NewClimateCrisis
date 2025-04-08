@@ -348,6 +348,9 @@ footer .contact{
   .footercontainer{
     flex-direction: column;
   }
+  .footer p{
+    font-size:17px;
+  }
 
   
   
