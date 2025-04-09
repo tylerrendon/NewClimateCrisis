@@ -277,7 +277,7 @@
   }
   
   
-  @media (max-width: 768px) {
+@media (min-width: 368px) and (max-width:1200px){
     
     .navbar{
       padding-top: 40px;
